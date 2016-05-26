@@ -1,6 +1,6 @@
 ## Functional Programming Examples
 
-> ![JavaScript函数式编程探索与思考](https://wenjs.me/p/javascript-functional-programming)
+> [JavaScript函数式编程探索与思考](https://wenjs.me/p/javascript-functional-programming)
 
 常见函数式操作代码示例
 
